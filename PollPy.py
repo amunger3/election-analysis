@@ -21,11 +21,15 @@ with open(file_to_load) as election_data:
     headers = next(file_reader)
     print(headers)
 
+
+
+
+
 # Using the with statement open the file to save as a text file.
-with open(file_to_save, 'w') as txt_file:
+# with open(file_to_save, 'w') as txt_file:
 
     # Write some data to the file.
-    txt_file.write("Arapahoe\nDenver\nJefferson")
+    # txt_file.write("Arapahoe\nDenver\nJefferson")
 
 
 # 1. The total number of votes cast
