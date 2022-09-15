@@ -11,9 +11,15 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources
 - Data Source: `election_results.csv`
+- Software: Python 3.10.6, VS Code 1.71.1
 
 ## Summary
 
 ## Challenge Overview
+- There were 369,711 votes cast in this election, for 3 different candidates in 3 Colorado counties.
+- The vast majority (82.8%) of votes came from Denver county (306,055).
+- The other 2 counties had relatively similar voter turnout counts as seen below:
+![title](resources/county_results.png)
+
 
 ## Challenge Summary
